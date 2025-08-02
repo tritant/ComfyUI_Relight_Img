@@ -1,7 +1,7 @@
 [project]
 name = "Advanced-Relight-Node"
 description = "A custom node for ComfyUI that provides advanced 2D relighting capabilities."
-version = "1.0.0"
+version = "1.0.1"
 license = { file = "LICENSE.txt" }
 
 [project.urls]
@@ -11,4 +11,5 @@ Repository = "https://github.com/tritant/ComfyUI_Relight_Img"
 PublisherId = "tritant"
 DisplayName = "Advanced_Relight_Img"
 Icon = ""
+
 
